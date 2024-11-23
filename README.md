@@ -2,7 +2,7 @@
 
 
 1. Maps
-# get name => login form (can skip) => pick theme => home
+# get name => login form (skip this step) => pick theme => home
 
 2. Pages
     1. Home page
